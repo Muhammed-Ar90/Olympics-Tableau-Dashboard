@@ -4,7 +4,7 @@ An interactive Tableau dashboard analyzing 120+ years
 of Olympic Games history.
 
 ## 📊 Dashboard Link
-[View Live Dashboard](https://public.tableau.com/app/profile/muhammed.ar1912/viz/olympics_17780628633460/OLYMPICS_DASHBOARD)
+-Click here to [View Live Dashboard](https://public.tableau.com/app/profile/muhammed.ar1912/viz/olympics_17780628633460/OLYMPICS_DASHBOARD)
 
 ## 📸 Screenshot
 ![Dashboard](Screenshot.png)
