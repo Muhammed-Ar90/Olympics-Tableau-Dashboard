@@ -42,5 +42,5 @@ of Olympic Games history.
 
 ## 👤 Author
 Muhammed Abdul Razak
-[Tableau Public Profile](https://public.tableau.com/app/profile/muhammed.ar1912)
-[LinkedIn](http://linkedin.com/in/muhammed-abdulrazak)
+-[Tableau Public Profile](https://public.tableau.com/app/profile/muhammed.ar1912)
+-[LinkedIn](http://linkedin.com/in/muhammed-abdulrazak)
